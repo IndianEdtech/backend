@@ -1,1 +1,1 @@
-# Backend Of IndianEdtech Admin Panel
+# Backend Of IndianEdtech
