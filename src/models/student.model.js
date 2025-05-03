@@ -38,4 +38,4 @@ const studentSchema = new Schema({
     timestamps:true
 });
 
-export const User = mongoose.model("Student", studentSchema);
+export const Student = mongoose.model("Student", studentSchema);
